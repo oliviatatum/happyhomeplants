@@ -11,11 +11,17 @@ body {
 
 
 }
-.topnav {
+.b-darkgreen {
+    background-color: #669966;
+}
+.b-green {
     background-color: #99CC99;
 }
-.sale-now-on{
+.b-grey{
     background-color: #999;
+}
+.b-yellow{
+    background-color: #FFCC00;
 }
 
 
