@@ -9,6 +9,7 @@
         "price": 24.99,
         "description": "yellow and black zebra print-esque markings found on its stems contrast with its lush green leaves. Its leaves are in fact believed to mirror the floppy ears of an elephant",
         "image": "alocasizebrina.jpg",
+        "image_url": "https://github.com/oliviatatum/happyhomeplants/blob/master/media/alocasiazebrina.jpg",
         "height": "75cm",
         "category": 4
    }
@@ -23,6 +24,7 @@
         "price": 29.99,
         "description": "a stemless or very short-stemmed plant, the leaves are thick and fleshy, green to grey-green, with some varieties showing white flecks on their upper and lower stem surfaces",
         "image": "aloevera.jpg",
+        "image_url": "https://github.com/oliviatatum/happyhomeplants/blob/master/media/aloevera.jpg",
         "height": "50cm",
         "category": 2
    }
@@ -37,6 +39,7 @@
         "price": 14.99,
         "description": "a medium sized palm tree, the trunk is small and the fruit is oval shaped, orange coloured and bears a hard single seed.",
         "image": "arecapalm.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/arecapalm.jpg",
         "height": "16m",
         "category": 1
    }
@@ -51,6 +54,7 @@
         "price": 12.99,
         "description": "It is a bushy, evergreen, twining vine with wiry, spiny, scrambling or climbing stems. It features feathery, fern like flattened sprays of bright green stems.",
         "image": "Asparagusfern.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/asparagusfern.jpg",
         "height": "1m",
         "category": 2
    }
@@ -65,6 +69,7 @@
         "price": 9.99,
         "description": "Featuring simple, entire, strap-shaped, glossy, bright apple green fronds with contrasting dark brown to black midribs and undulating margins",
         "image": "Aspleniumnidus.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/aspleniumnidus.jpg",
         "height": "100cm",
         "category": 2
    }
@@ -79,6 +84,7 @@
         "price": 39.99,
         "description": "The leaves are evergreen and arranged in two ranks, making a fan-shaped crown. The flowers stand above the foliage at the tips of long stalks",
         "image": "birdofparadise.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/birdofparadise.jpg",
         "height": "2m",
         "category": 4
    }
@@ -93,6 +99,7 @@
         "price": 11.99,
         "description": "An evergreen perennial herbaceous plant",
         "image": "Bostonfern.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/bostonfern.jpg",
         "height": "50cm",
         "category": 1
    }
@@ -107,6 +114,7 @@
         "price": 12.99,
         "description": "dark green patterning in contrast with a pale green background leaf colour. The translucence of the slender stalks increases the tonal range even further.",
         "image": "calathealeopardina.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/calathealeopardina.jpg",
         "height": "60cm",
         "category": 1
    }
@@ -121,6 +129,7 @@
         "price": 27.99,
         "description": "large dark green, glossy leaves with white, fish-bone-like stripes that have pink overtones. The leaves are purple underneath.",
         "image": "Calatheasanderiana.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/calatheasanderiana.jpg",
         "height": "30cm",
         "category": 2
    }
@@ -135,6 +144,7 @@
         "price": 19.99,
         "description": "long, stiff, pointed evergreen leaves that are capable of withstanding temperature extremes, dust, smoke, and other harsh conditions. The solitary, bell-shaped flowers, which are usually lilac in colour but sometimes brown or green, are borne at the base of the plant.",
         "image": "Castironplant.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/castironplant.jpg",
         "height": "60cm",
         "category": 1
    }
@@ -149,6 +159,7 @@
         "price": 14.99,
         "description": "green vegetative shoots grow up and out from the crown, each ending in a single saucer shaped leaf ",
         "image": "Chinesemoneyplant.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/chinesemoneyplant.jpg",
         "height": "25cm",
         "category": 2
    }
@@ -162,7 +173,8 @@
         "alternate_name": "Cocos nucifera",
         "price": 29.99,
         "description": "Coconut palms usually have just one upright trunk with feathered fronds with evergreen leaves that range in size from 18 inches to 3 feet",
-        "image": "Coconut palm.jpg",
+        "image": "Coconutpalm.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/CoconutPalm.jpg",
         "height": "50cm",
         "category": 1
    }
@@ -176,7 +188,8 @@
         "alternate_name": "Ficus pupils",
         "price": 9.99,
         "description": "The leaves are oval, cordate, asymmetrical, with opposite veins",
-        "image": "Creeping fig.jpg",
+        "image": "Creepingfig.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/creepingfig.jpg",
         "height": "40cm",
         "category": 2
    }
@@ -191,6 +204,7 @@
         "price": 14.99,
         "description": "the vine produces waxy, heart-shaped foliage variegated with bright yellow and green",
         "image": "devilsivy.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/devilsivy.jpg",
         "height": "60cm",
         "category": 2
    }
@@ -205,6 +219,7 @@
         "price": 5.99,
         "description": "Flowers on short stalks (cymes) arise from compact rosettes of fleshy, often brightly coloured leaves.",
         "image": "echeveriastartercollection.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/echeveriastartercollection.jpg",
         "height": "20cm",
         "category": 1
    }
@@ -219,6 +234,7 @@
         "price": 5.99,
         "description": "A fast-growing, woody evergreen perennial that is primarily grown as a climbing vine or trailing ground cover.",
         "image": "Englishivy.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/englishivy.jpg",
         "height": "25cm",
         "category": 3
    }
@@ -233,6 +249,7 @@
         "price": 24.99,
         "description": "With gracefully drooping branchlets and glossy leaves, oval with an acuminate tip, the bark is light grey and smooth.",
         "image": "Ficusbenjamina.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/ficusbenjamina.jpg",
         "height": "80cm",
         "category": 4
    }
@@ -247,6 +264,7 @@
         "price": 13.99,
         "description": "The foliage of these houseplants is quite large, and it is variously patterned in shades of green and cream. This is accompanied by a burgundy flush, which is pronounced when the leaves are newly emerging, but slowly fades as they mature.",
         "image": "ficuselasticatineke.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/ficuselasticateneke.jpg",
         "height": "50cm",
         "category": 2
    }
@@ -261,6 +279,7 @@
         "price": 18.99,
         "description": "Bonsai trees are trained to grow into a shape that is pleasing to look at. The best bonsai trees appear to be old, and to have a shape that seems like a real tree except much smaller. The word bonsai means \"tree in tray\" in the Japanese language. Bonsai is a very old art form in Japan.",
         "image": "Ficusginseng.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/ficusginseng.jpg",
         "height": "40cm",
         "category": 2
    }
@@ -275,6 +294,7 @@
         "price": 29.99,
         "description": "Very large, heavily veined, violin-shaped leaves that grow upright.",
         "image": "Fiddleleaffig.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/fiddleleaffig.jpg",
         "height": "40cm",
         "category": 5
    }
@@ -289,6 +309,7 @@
         "price": 14.99,
         "description": "Best known for its long, arching stems coated with serrated leaf nodes, fishbone cactus is found in its habitat in groups, which hang from trees.",
         "image": "Fishbonecactus.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/fishbonecactus.jpg",
         "height": "15cm",
         "category": 3
    }
@@ -303,6 +324,7 @@
         "price": 24.99,
         "description": "Satin Pothos heart shaped leaves with silvery splashes and a shimmering sheen. Let it cascade over a hanging pot.",
         "image": "Hangingsatinpathos.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/hangingsatinpothos.jpg",
         "height": "30cm",
         "category": 3
    }
@@ -317,6 +339,7 @@
         "price": 51.99,
         "description": "the kentia palm has a slender trunk and a graceful crown of dark-green drooping fronds.",
         "image": "Kentiapalm.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/kentiapalm.jpg",
         "height": "1.5m",
         "category": 4
    }
@@ -331,6 +354,7 @@
         "price": 39.99,
         "description": "As its name suggests, Dracaena Lemon Lime is a vibrant, fresh Dracaena with bright green, yellow and white leaves. It is wide spreading, with delightfully long, arching, lance-shaped leaves arranged around a central stem. Leaves are predominantly a lemon-lime background colour, sometimes tending towards yellow, with a central stripe of darker green edged in white.",
         "image": "lemonlimedracaena.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/LemonLimeDracaena.jpg",
         "height": "60cm",
         "category": 2
    }
@@ -345,6 +369,7 @@
         "price": 19.99,
         "description": "Also known as the Table Palm or Fan Palm. Livistona rotundifolia is a very attractive and elegant palm with large, shiny, fan shaped leaves and thorny stems. It is smaller than most other palms, but can still grow up to 2m indoors and will certainly add a tropical, green element to your living space.",
         "image": "Livistonarotundifolia.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/livistonarotundifolia.jpg",
         "height": "70cm",
         "category": 1
    }
@@ -359,6 +384,7 @@
         "price": 18.99,
         "description": "The Pachira is an evergreen broadleaf tree with hand-shaped compound leaves consisting of up to 9 leaflets. Money trees often have a slightly swollen trunk base, which also serves as a water reservoir, and the bark is brown to grey.",
         "image": "moneytree.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/moneytree.jpg",
         "height": "1.5m",
         "category": 4
    }
@@ -374,6 +400,7 @@
         "price": 16,
         "description": "It is grown as an ornamental due to its attractive evergreen foliage, conical appearance and fanning, whorled layers of branches.",
         "image": "norfolkislandpine.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/norfolkislandpine.jpg",
         "height": "80cm",
         "category": 4
    }
@@ -388,6 +415,7 @@
         "price": 14.99,
         "description": "Peace lilies are sturdy plants with glossy, dark green oval leaves that narrow to a point. The leaves rise directly from the soil. These plants also periodically produce lightly fragrant white flowers that resemble calla lilies. The long-lasting flowers start out pale green and slowly turn creamy white as they open.",
         "image": "peacelily.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/peacelily.jpg",
         "height": "60cm",
         "category": 2
    }
@@ -402,6 +430,7 @@
         "price": 18.99,
         "description": "One of the most photogenic houseplants is the Begonia maculata, also known as the Polka dot Begonia. The maculata is a real eyecatcher with its large angel wing-shaped leaves patterned with polka dots on top and a deep purple-red on the bottom side.",
         "image": "Polkadotbegonia.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/polkadotbegonia.jpg",
         "height": "40cm",
         "category": 5
    }
@@ -416,6 +445,7 @@
         "price": 15.99,
         "description": "",
         "image": "Monstera.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/monstera.jpg",
         "height": "2m",
         "category": 4
    }
@@ -430,6 +460,7 @@
         "price": 9.99,
         "description": "",
         "image": "schefflera.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/schefflera.jpg",
         "height": "90cm",
         "category": 4
    }
@@ -444,6 +475,7 @@
         "price": 14.99,
         "description": "The Sedum Burro's Tail has distinctive trailing stems covered with plump green leaves. It may also flower during the summer with pink or red star shaped flowers at the tips of the stems",
         "image": "sedumburrotail.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/sedumburrotail.jpeg",
         "height": "18cm",
         "category": 3
    }
@@ -457,7 +489,8 @@
         "alternate_name": "Sansevieria masoniana",
         "price": 13.95,
         "description": "The thin, upright leaves are succulent to leathery in texture, oblanceolate in shape, and can reach up to 3 tall and 8 wide.",
-        "image": "Shark fin.jpg",
+        "image": "Sharkfin.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/sharkfin.jpg",
         "height": "60cm",
         "category": 2
    }
@@ -472,6 +505,7 @@
         "price": 17,
         "description": "Their sword-like leaves are approximately two feet long. The foliage is stiff, broad, and upright, in a dark green color variegated with white and yellow striping.",
         "image": "snakeplant.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/snakeplant.jpg",
         "height": "14cm",
         "category": 2
    }
@@ -485,7 +519,8 @@
         "alternate_name": "Chlorophytum comosum",
         "price": 9.99,
         "description": "The spider plant's spear-shaped leaves can reach a length of 45cm. The small, elegant white flowers grow on stalks from the heart of the plant, resembling lilies.",
-        "image": "Spider plant.jpg",
+        "image": "Spiderplant.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/spiderplant.jpg",
         "height": "35cm",
         "category": 1
    }
@@ -500,6 +535,7 @@
         "price": 17.99,
         "description": "a unique vining succulent that is easily recognizable by its almost spherical, tiny pea-shaped leaves. The leaves grow on 2-foot trailing stems that gracefully spill over the sides of planters and hanging baskets.",
         "image": "Stringofbeads.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/stringofbeads.jpg",
         "height": "50cm",
         "category": 2
    }
@@ -514,6 +550,7 @@
         "price": 9.99,
         "description": "a trailing succulent-like plant native to South Africa. The delicate heart-shaped foliage and slender vines can reach up to 12' long in its natural environment, and has earned this plant many nicknames, including Rosary Vine and Sweetheart Vine.",
         "image": "Stringofhearts.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/stringofhearts.jpg",
         "height": "10cm",
         "category": 1
    }
@@ -522,12 +559,13 @@
    "pk":38,
    "model":"products.product",
    "fields":{
-        "name": "singonium_white_butterfly",
+        "name": "syngonium_white_butterfly",
         "friendly_name": "Singonium White Butterfly",
         "alternate_name": "Syngonium Podophyllum",
         "price": 14.99,
         "description": "a charming house plant that is grown for its unusual foliage. It forms an attractive mound of creamy white foliage with an arrowhead shape. The leaves are touched with green. Foliage is said to create an illusion of butterfly wings.",
         "image": "singoniumwhitebutterfly.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/syngoniumwhitebutterfly.jpg",
         "height": "40cm",
         "category": 1
    }
@@ -542,6 +580,7 @@
         "price": 15.99,
         "description": "its leaves closely resemble that of watermelon skin.",
         "image": "watermelonpeperomia.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/watermelonpeperomia.jpeg",
         "height": "12cm",
         "category": 1
    }
@@ -556,6 +595,7 @@
         "price": 14.99,
         "description": "It is a stemless evergreen plant that typically grows to 3' tall with attractive, pinnately compound leaves rising up from its rhizomes.",
         "image": "Zzplant.jpg",
+        "image_url":"https://github.com/oliviatatum/happyhomeplants/blob/master/media/zzplant.jpg",
         "height": "65cm",
         "category": 2
    }
