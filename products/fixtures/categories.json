@@ -1,0 +1,67 @@
+  [
+   {
+      "pk":1,
+      "model":"products.category",
+      "fields":{
+         "name":"pet_friendly",
+         "friendly_name":"Pet Friendly"
+      }
+   },
+   {
+      "pk":2,
+      "model":"products.category",
+      "fields":{
+         "name":"easy_care",
+         "friendly_name":"Easy Care"
+      }
+   },
+   {
+      "pk":3,
+      "model":"products.category",
+      "fields":{
+         "name":"hanging_plants",
+         "friendly_name":"Hanging Plants"
+      }
+   },
+   {
+      "pk":4,
+      "model":"products.category",
+      "fields":{
+         "name":"large_plants",
+         "friendly_name":"Large Plants"
+      }
+   },
+   {
+      "pk":5,
+      "model":"products.category",
+      "fields":{
+         "name":"small_pots",
+         "friendly_name":"Small Pots"
+      }
+   },
+   {
+      "pk":6,
+      "model":"products.category",
+      "fields":{
+         "name":"medium_pots",
+         "friendly_name":"Medium Pots"
+      }
+   },
+   {
+      "pk":7,
+      "model":"products.category",
+      "fields":{
+         "name":"large_pots",
+         "friendly_name":"Large Pots"
+      }
+   },
+   {
+      "pk":8,
+      "model":"products.category",
+      "fields":{
+         "name":"sale_items",
+         "friendly_name":"Sale Items"
+      }
+   }
+
+]
