@@ -33,6 +33,18 @@ body {
     color: #99cc99;
 }
 
+.btt-button {
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+.btt-link {
+    cursor: pointer;
+}
+
 .overlay {
     height: 100%;
     width: 100%;
