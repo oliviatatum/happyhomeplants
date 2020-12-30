@@ -24,6 +24,15 @@ body {
     background-color: #FFCC00;
 }
 
+.text-darkgreen {
+    color: #669966;
+}
+
+.category-badge :hover{
+    background-color: #999;
+    color: #99cc99;
+}
+
 .overlay {
     height: 100%;
     width: 100%;
