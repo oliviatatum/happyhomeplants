@@ -89,6 +89,17 @@ body {
     float: right;
 }
 
+.basket-overlay{
+    height: 75%;
+    width: 50%;
+    top: 20%;
+    left: 25%;
+    margin-bottom: 10%;
+    position: fixed;
+    background: white;
+    z-index: -1;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
