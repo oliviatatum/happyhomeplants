@@ -12,7 +12,7 @@ def add_to_basket(request, item_id):
     """ add a quantity of the specified product to the shopping basket"""
 
     quantity = int(request.POST.get('quantity'))
-    redirect_url = request.POST.get('request_url')
+    redirect_url = request.POST.get('redirect_url')
     basket = request.session.get('basket', {})
 
     if item_id in list(basket.keys()):
