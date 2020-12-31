@@ -79,6 +79,16 @@ body {
     color: white;
 }
 
+.btn-outline-green {
+    background: white;
+    color: #669966;
+    border: 1px solid black;
+}
+
+.align-right{
+    float: right;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
