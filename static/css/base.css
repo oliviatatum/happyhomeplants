@@ -119,6 +119,19 @@ body {
 .border-green {
     border: 1px solid #669966 !important;
 }
+
+.message-container {
+    position: fixed;
+    top: 72px;
+    right: 15px;
+    z-index: 9999999;
+}
+
+.basket-notification-wrapper {
+    max-height: 150px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
