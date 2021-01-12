@@ -136,9 +136,15 @@
             </div>
         </div>
     </div>
-
+    <div id="loading-overlay">
+        <h1 class="text-white loading-spinner">
+                <div class="spinner-grow text-white" role="status">
+                    <span class="icon visually-hidden"></span>
+                    <p class="text-white">Loading...</p>
+                </div>
+        </h1>
+    </div>
 {% endblock %}
-
 {% block postloadjs %}
     {{ block.super }}
     {{ stripe_public_key|json_script:"id_stripe_public_key" }}
