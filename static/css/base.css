@@ -142,6 +142,25 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
 }
+
+/* Allauth form formatting */
+
+.allauth-form-inner-content p {
+    margin-top: 1.5rem;
+    color: #999;
+}
+
+.allauth-form-inner-content input {
+    border-color: #999;
+}
+
+.allauth-form-inner-content label:not([for="id_remember"]) {
+    display: none;
+}
+
+.allauth-form-inner-content input::placeholder {
+    color: #999;
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
