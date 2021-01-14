@@ -63,14 +63,14 @@
    "pk":5,
    "model":"products.product",
    "fields":{
-        "name": "bird's_nest_fern",
+        "name": "birds_nest_fern",
         "friendly_name": "Bird's Nest Fern",
         "alternate_name": "Asplenium Nidus",
         "price": 9.99,
         "description": "Featuring simple, entire, strap-shaped, glossy, bright apple green fronds with contrasting dark brown to black midribs and undulating margins",
         "image": "aspleniumnidus.jpg",
         "image_url":"https://img.crocdn.co.uk/images/products2/pl/20/00/02/81/pl2000028174.jpg?width=940&height=940",
-        "height": "100cm",
+        "height": "1m",
         "category": 2
    }
  },
