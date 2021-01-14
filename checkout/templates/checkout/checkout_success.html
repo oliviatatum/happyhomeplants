@@ -195,11 +195,21 @@
         </div> 
        <div class="row">
            <div class="col-6 offset-3">
-               <a href="{% url 'products' %}" class="btn btn-green">
-
-                    <span>Keep Shopping</span>
-
+               {% if from_profile %}
+                <a href="{% url 'profile' %}" class="btn btn-green">
+                    <span class="icon">
+                        <i class="fas fa-user-circle"></i>
+                    </span>
+                    <span>Back to Profile</span>
                </a>
+               {% else %}
+               <a href="{% url 'products' %}" class="btn btn-green">
+                    <span class="icon">
+                        <i class="fas fa-shopping-basket"></i>
+                    </span>
+                    <span>Keep Shopping</span>
+               </a>
+               {% endif %}
            </div>
        </div>
     </div>

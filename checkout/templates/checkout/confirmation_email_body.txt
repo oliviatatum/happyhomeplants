@@ -1,0 +1,59 @@
+Hello {{ order.full_name }}!
+
+Thank you so much for placing an order with Happy Home Plants! 
+
+Details of your order are below.
+
+Order Number: {{ order.order_number }}
+Order Date: {{ order.date }}
+
+{% for item in order.lineitems.all %}
+
+    {{ item.product.friendly_name }}
+    {{ item.product.image.url }}
+    Qty:{{ item.quantity }}
+    £{{ item.product.price }} each
+
+{% endfor %}
+Shipping:
+
+{{ order.full_name }},
+{{ order.street_address1 }},
+{% if order.street_address2 %}
+{{ order.street_address2 }},
+{% endif %}
+{{ order.town_or_city }},
+{% if order.county %}
+{{ order.county }},
+{% endif %}
+{% if order.postcode %}
+{{ order.postcode }},
+{% endif %}
+{{ order.country }},
+
+Billing:
+
+{{ order.full_name }},
+{{ order.street_address1 }},
+{% if order.street_address2 %}
+{{ order.street_address2 }},
+{% endif %}
+{{ order.town_or_city }},
+{% if order.county %}
+{{ order.county }},
+{% endif %}
+{% if order.postcode %}
+{{ order.postcode }},
+{% endif %}
+{{ order.country }},
+
+
+We have your phone number on file as {{ order.phone_number }}.
+
+If you have any questions, feel free to contact us at {{ contact_email }}.
+
+Thank you for your order!
+
+Sincerely, 
+
+Happy Home Plants
