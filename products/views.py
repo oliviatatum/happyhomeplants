@@ -109,10 +109,10 @@ def edit_product(request, product_id):
     if not request.user.is_superuser:
         messages.error(
             request, 'You do not have sufficient privileges to access this page.')
-    return redirect(reverse('home'))
-
+        return redirect(reverse('home'))
     product = get_object_or_404(Product, pk=product_id)
     if request.method == 'POST':
+
         form = ProductForm(request.POST, request.FILES, instance=product)
         if form.is_valid():
             form.save()
